@@ -1,7 +1,5 @@
-reminder: your
-microphone is muted
-by default
+Welcome to Rec Room!
+Be excelent to each
+other!
 
-thanks,
 -recroom2016
-not coach ->>
